@@ -7,7 +7,7 @@
 # ⚡ KIMPUL TWEAKS
 ### *Next-Level Android Gaming Optimization & Non-Root Performance Booster*
 
-[![GitHub Release](https://img.shields.io/github/v/release/USERNAME/KIMPUL-TWEAKS?style=flat-square&color=blue)](https://github.com/USERNAME/KIMPUL-TWEAKS/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/lpedes36-gif/KIMPUL-TWEAKS?style=flat-square&color=blue)](https://github.com/lpedes36-gif/KIMPUL-TWEAKS/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android%20Non--Root-success?style=flat-square)](https://developer.android.com/)
 [![Compatible](https://img.shields.io/badge/Compatible-Brevent%20%2F%20Shizuku%2F%20ADB-orange?style=flat-square)](https://github.com/brevent/Brevent)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
