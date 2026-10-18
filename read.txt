@@ -1,0 +1,7 @@
+GAME TWEAKS BY KIMPUL GM
+# cara instal di command brevent
+sh /sdcard/kimpul_tweaks.sh
+
+pastikan file berada di luar folder
+
+MAKASIH
