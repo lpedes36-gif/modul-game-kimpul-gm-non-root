@@ -1,2 +1,3 @@
-# modul-game-kimpul-gm-non-root
-Karena ini adalah mode Non-Root, perubahan pada partisi /system yang sebenarnya dibatasi oleh sistem Android (read-only). Oleh karena itu, KIMPUL TWEAKS ini memfokuskan optimalisasi pada Global/System Settings dan System Properties tingkat shell ADB yang terbukti aman dan efektif mendongkrak performa gaming tanpa risiko bootloop
+​🚀 KIMPUL TWEAKS — Non-Root Gaming Booster
+​Unlock Maximum Performance, Lower Ping, and Smoother Gameplay Without Root!
+​KIMPUL TWEAKS adalah modul optimasi sistem ringan yang dirancang khusus untuk para gamer seluler yang ingin mendongkrak performa perangkat tanpa harus melakukan root atau memodifikasi partisi sistem secara berbahaya. Bekerja melalui eksekusi perintah shell (kompatibel penuh dengan Brevent, Shizuku, atau ADB Shell), tweak ini berfokus pada pemangkasan latensi, stabilisasi jaringan, dan pengalokasian sumber daya sistem secara maksimal ke game yang sedang dimainkan.
